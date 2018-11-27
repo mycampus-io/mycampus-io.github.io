@@ -1,1 +1,1 @@
-# mycampus.github.io
+# mycampus-io.github.io
